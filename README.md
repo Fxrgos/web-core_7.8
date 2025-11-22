@@ -1,1 +1,1 @@
-# web-core_7.8
+https://fxrgos.github.io/web-core_7.8/
